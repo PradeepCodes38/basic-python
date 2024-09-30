@@ -1,1 +1,1 @@
-print("hello full changes new")
+prin("hello full changes new")
