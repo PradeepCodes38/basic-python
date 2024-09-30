@@ -1,1 +1,1 @@
-prinf("hello full changes new")
+print("hello full changes new")
